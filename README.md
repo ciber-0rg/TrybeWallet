@@ -3,7 +3,7 @@ React and Redux
 
 # Habilidades
 
-Neste projeto, verificamos se voce é capaz de:
+Neste projeto, voce é capaz de:
 
 - Criar um store Redux em aplicações React
 
